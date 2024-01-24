@@ -3,3 +3,21 @@
 *{
     font-family: 'Manrope', sans-serif;
 }
+
+.program-section-div1{
+    background: url('../Images/2.png');
+}
+
+.program-section-div2{
+    background: url('../Images/3.png');
+}
+
+.program-section-div3{
+    background: url('../Images/4.png');
+}
+
+.program-section-div1, .program-section-div2, .program-section-div3{
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
